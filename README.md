@@ -1,7 +1,4 @@
-فایل README.md
-(کد زیر را کپی کنید)
 
-markdown
 # Xray Tunnel Scanner (Powered by iPerf3)
 
 این پروژه یک ابزار پیشرفته برای اسکن و یافتن آی‌پی‌های تمیز (Clean IPs) جهت استفاده در کانفیگ‌های Xray است.
